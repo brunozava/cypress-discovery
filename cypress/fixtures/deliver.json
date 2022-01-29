@@ -1,8 +1,8 @@
 {
     "signup": {
-        "name": "Fernando Papito",
+        "name": "Bruno SDET",
         "cpf": "00000014141",
-        "email": "papito@hotmail.com",
+        "email": "brunozava@qa.com",
         "whatsapp": "11999999999",
         "address": {
             "postalcode": "04534011",
@@ -16,7 +16,7 @@
         "cnh": "cnh-digital.jpg"
     },
     "cpf_inv": {
-        "name": "João Lucas",
+        "name": "Ismael Antonio",
         "cpf": "x00000141AA",
         "email": "joao@hotmail.com",
         "whatsapp": "11999999999",
@@ -32,9 +32,9 @@
         "cnh": "cnh-digital.jpg"
     },
     "email_inv": {
-        "name": "Fernando Papito",
+        "name": "Bruno SDET",
         "cpf": "00000014141",
-        "email": "papito.com.br",
+        "email": "brunoqa.com.br",
         "whatsapp": "11999999999",
         "address": {
             "postalcode": "04534011",
